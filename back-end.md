@@ -6,12 +6,12 @@
 <details>
 <summary>Mostrar conteúdo</summary>
 
-* [Como a internet funciona?](Comoainternetfunciona?)
-* [O que é HTTP?](OqueéHTTP?)
+* [Como a internet funciona?]()
+* [O que é HTTP?]()
  
 </details>
 
-# Como a internet funciona?
+## Como a internet funciona?
 
 Primeiramente é necessário compreender o que é a internet em si. Simplificamente (mas muito simplificadamente), pode-se entender a internet como uma rede que interliga diversos computadores.
 
@@ -52,3 +52,7 @@ O que é possível controlar pelo HTTP:
 ### Vale lembrar
 
 A porta padrão dos servidores é a 80, sendo geralmente ocultada.
+
+### Referência bibliográfica 
+
+* [HTTP visão geral](https://developerS.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
