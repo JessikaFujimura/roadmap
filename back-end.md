@@ -11,7 +11,7 @@
  
 </details>
 
-## Como a internet funciona?
+# Como a internet funciona?
 
 Primeiramente é necessário compreender o que é a internet em si. Simplificamente (mas muito simplificadamente), pode-se entender a internet como uma rede que interliga diversos computadores.
 

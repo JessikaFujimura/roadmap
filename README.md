@@ -4,4 +4,4 @@ Este repositório é um guia de estudos baseado no roadmap montado por [kamranah
 
 ## Roadmaps 
 
-* [backend](https://github.com/JessikaFujimura/roadmap/blob/e450cad04831adeba0362f5085dd19702103045e/back-end.md)
+* [backend](back-end.md)
